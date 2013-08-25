@@ -18,7 +18,7 @@
 				<key>background</key>
 				<string>#121212</string>
 				<key>foreground</key>
-				<string>#eeeeee</string>
+				<string>#efefef</string>
 				<key>caret</key>
 				<string>#bc00bc</string>
 				<key>gutterForeground</key>
