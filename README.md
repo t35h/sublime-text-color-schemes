@@ -1,5 +1,6 @@
 ### Sublime Text 3 syntax coloring themes
 
+The font I'm using is [Droid Sans Mono](http://www.google.com/fonts#UsePlace:use/Collection:Droid+Sans+Mono)
 
 #### Vesper-light preview ####
 
