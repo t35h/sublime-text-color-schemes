@@ -78,9 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eeeeee</string>
-				<key>background</key>
-				<string>#c26baf17</string>
+				<string>#c26baf</string>
 			</dict>
 		</dict>
 		<dict>
